@@ -72,20 +72,6 @@ End-to-end delivery platform handling real-time order tracking and fulfillment l
 
 > Additional client and enterprise projects across AI, web, and mobile — under NDA.
 
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muheeeeb&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Muheeeeb&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=4a5568&stroke=00000000&currStreakNum=e6edf3&sideNums=e6edf3" />
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
