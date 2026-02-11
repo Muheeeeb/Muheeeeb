@@ -1,115 +1,133 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Muheeb%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Focused%20Full%20Stack%20Developer&descSize=20&descColor=ffffff&descAlignY=55&animation=fadeIn" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8F%85+Gold+Medalist+in+Artificial+Intelligence;%F0%9F%9A%80+Building+End-to-End+Products;%F0%9F%92%A1+Turning+Ideas+into+Reality)](https://git.io/typing-svg)
+# Hey, I'm Muheeb Ahmed
+
+### AI Engineer & Full Stack Developer
+
+I build **web apps**, **mobile apps**, and **train AI models**.<br/>
+Gold Medalist in AI | CGPA 3.73 | Based in Islamabad
 
 <br/>
 
-<a href="https://www.linkedin.com/in/muheeb-ahmed-58223a275"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:muheebahmed1833@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/Muheeeeb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-
-<img src="https://komarev.com/ghpvc/?username=Muheeeeb&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/muheeb-ahmed-58223a275)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/-Email-000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:muheebahmed1833@gmail.com)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=fff)](https://github.com/Muheeeeb)
 
 </div>
 
----
+<br/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## What I Do
 
-```yaml
-name: Muheeb Ahmed
-location: Islamabad, Pakistan
-role: AI Focused Full Stack Developer
-
-education:
-  degree: Gold Medalist in Artificial Intelligence
-  cgpa: 3.73
-
-current_focus:
-  - Building full end-to-end products
-  - Working on multiple projects simultaneously
-  - Bridging AI with modern web development
+```
+Web Applications     Full stack web apps with React, Next.js, Node.js, Laravel
+Mobile Applications  Cross-platform mobile apps with React Native & Expo
+AI / ML              Training and deploying AI models with Python
+End-to-End Products  From idea to deployment — I build the whole thing
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muheeeeb&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=6" width="280" />
+<br/>
 
-- **Gold Medalist** in AI with a CGPA of **3.73**
-- Currently working on **multiple projects**
-- Building **full end-to-end products**
-- Passionate about **AI-powered applications**
-- Always exploring **new technologies**
+## Tech
 
-<br clear="right"/>
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
 
----
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
+
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+
+</td>
+</tr>
+<tr>
+<td><b>Mobile</b></td>
+<td>
+
+![React Native](https://img.shields.io/badge/React_Native-000?style=flat-square&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo)
+
+</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=flat-square&logo=scikitlearn)
+
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases & ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muheeeeb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&ring_color=00d4ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muheeeeb&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888&stroke=00000000" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muheeeeb&custom_title=Muheeb's%20Contribution%20Graph&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&area_color=7c3aed&hide_border=true" />
-
-</div>
-
----
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="40"> Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/muheeb-ahmed-58223a275"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:muheebahmed1833@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muheeeeb&show_icons=true&hide_border=true&bg_color=000&title_color=fff&text_color=aaa&icon_color=58a6ff&ring_color=58a6ff&include_all_commits=true&count_private=true" />&nbsp;&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Muheeeeb&hide_border=true&background=000&ring=58a6ff&fire=fff&currStreakLabel=fff&sideLabels=aaa&dates=555&stroke=00000000&currStreakNum=fff&sideNums=fff" />
 
 <br/><br/>
 
-> *"The best way to predict the future is to build it."*
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Muheeeeb&bg_color=000000&color=58a6ff&line=ffffff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer" />
+<br/>
+
+## Top Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muheeeeb&layout=compact&hide_border=true&bg_color=000&title_color=fff&text_color=aaa&langs_count=8" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Muheeeeb&style=flat-square&color=000&label=Profile+Views&labelColor=000" />
+
+<br/><br/>
+
+**Building things that matter.**
+
+</div>
