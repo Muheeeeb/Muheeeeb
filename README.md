@@ -1,81 +1,25 @@
-<div align="center">
+# Hey There! 👋
+**I'm Muheeb** - AI engineer and full-stack developer from Islamabad. Gold medalist in AI with a thing for building products that actually ship to real users.
 
-# Muheeb Ahmed
+Check out my [LinkedIn](https://www.linkedin.com/in/muheeb-ahmed-58223a275) · [Portfolio](https://muheeeeb.github.io) · [Email](mailto:muheebahmed1833@gmail.com)
 
-**AI Engineer & Full Stack Developer**
+[![SkillIcons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,typescript,react,nextjs,nodejs,tailwind,postgres,mongodb,prisma,docker,git&theme=dark)](https://skillicons.dev)
 
-Gold Medalist in AI &nbsp;/&nbsp; CGPA 3.73 &nbsp;/&nbsp; Islamabad
+### What I've Built
 
-<br/>
+**[Samsung EMAX](https://www.samsung-emax.com/)** `Live` - Full-scale e-commerce platform for Samsung electronics. Product catalog, group purchasing, order management — serving real customers in production.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muheeb-ahmed-58223a275)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muheebahmed1833@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Muheeeeb)
+**[Panda Delivery](https://www.pandadeliveryofficial.com/)** `In Progress` - End-to-end delivery platform with real-time order tracking and fulfillment logistics.
 
-</div>
+> More client & enterprise projects across AI, web, and mobile — under NDA.
 
-<br/>
-
-## About
-
-AI engineer with a gold medal in Artificial Intelligence and hands-on experience shipping full-stack products to production. I build across the entire stack — from training deep learning models to deploying web and mobile applications that real users depend on.
-
-My work spans e-commerce platforms serving live customers, delivery systems handling real-time logistics, and ML pipelines processing production data. I focus on building things that work at scale, not just in notebooks.
-
-<br/>
-
-## AI & Machine Learning
-
-<div align="center">
-
-`Deep Learning` · `NLP` · `Computer Vision` · `Model Training & Fine-tuning` · `ML Pipelines` · `Production Deployment`
-
-</div>
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" height="40" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,nodejs,express&theme=dark" height="40" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,git&theme=dark" height="40" />
-
-</div>
-
-<br/>
-
-## Featured Projects
-
-### [Samsung EMAX](https://www.samsung-emax.com/) &nbsp; `Live`
-
-Full-scale e-commerce platform for Samsung electronics and home appliances. Built the complete product catalog, group purchasing system, order management pipeline, and customer support integration. Serving real customers in production.
-
-`Next.js` `React` `Node.js` `PostgreSQL`
-
-<br/>
-
-### [Panda Delivery](https://www.pandadeliveryofficial.com/) &nbsp; `In Progress`
-
-End-to-end delivery platform handling real-time order tracking and fulfillment logistics. Building the full product from service architecture to client-facing interfaces.
-
-`JavaScript` `React` `Node.js`
-
-<br/>
-
-> Additional client and enterprise projects across AI, web, and mobile — under NDA.
-
----
-
-<div align="center">
-
-<sub>Open to roles and collaborations in AI engineering, full-stack development, and product building.</sub>
-
-</div>
+<details>
+  <summary>GitHub Stats ⚡</summary>
+  <br/>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=Muheeeeb&show_icons=true&theme=blueberry&count_private=true&hide_border=true" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muheeeeb&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
+  </a>
+</details>
